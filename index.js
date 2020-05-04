@@ -1,3 +1,3 @@
-console.error("Invalid entry");;
-console.log("Try Again");
-console.warn("Insufficent Funds");
+console.error('Death');
+console.log('Life');
+console.warn('Middle');
